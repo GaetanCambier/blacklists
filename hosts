@@ -1,3 +1,4 @@
+# Cambier.org ADS
 
 # Ligatus ADS
 
@@ -63,7 +64,9 @@
 0.0.0.0 trk.helios.ligatus.com
 0.0.0.0 www.ligatus.com
 
+
 # Taboola ADS
+
 0.0.0.0 15.taboola.com
 0.0.0.0 api.taboola.com
 0.0.0.0 c2.taboola.com
@@ -85,4 +88,18 @@
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 www.taboola.com
+
+
+# Outbrain ADS
+
+0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 blog.outbrain.com
+0.0.0.0 images.outbrain.com
+0.0.0.0 log.outbrain.com
+0.0.0.0 odb.outbrain.com
+0.0.0.0 paid.outbrain.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 www.outbrain.com
+0.0.0.0 goutee.top
+
 
