@@ -116,3 +116,18 @@
 0.0.0.0 stats.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
 
+
+# StartApp ADS
+
+0.0.0.0 adv-id-data.startappservice.com
+0.0.0.0 click.startappservice.com
+0.0.0.0 dts.startappservice.com
+0.0.0.0 images.startappservice.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 init.startappexchange.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 rtb-va.origin.startappservice.com
+0.0.0.0 www.startapp.com
+0.0.0.0 www.startappexchange.com
+
