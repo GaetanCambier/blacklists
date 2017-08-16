@@ -103,3 +103,16 @@
 0.0.0.0 goutee.top
 
 
+# Unity ADS
+
+0.0.0.0 ads-brand-postback.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 cdn-highwinds.unityads.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 stats.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+
